@@ -1,2 +1,2 @@
 The primary objective of this project is to develop an AI-powered nutritional analysis system that enables fitness enthusiasts to make informed dietary choices by providing accurate nutritional insights for various fruits. While browsing the website Nutrilife uploading a image of fruit in prediction page it predicts what fruit kind of fruit it is and it's nutriotional contents like vitamins,minerals,proteins and fats .
-Here is the link to project demostration of our project AI nutritional analyzer for fitness enthusiats : 
+Here is the link to project demostration of our project AI nutritional analyzer for fitness enthusiats : https://drive.google.com/file/d/1ycCU1vajNEBzZs9U0ueZPLsdW_6WBulb/view?usp=sharing 
